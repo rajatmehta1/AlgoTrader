@@ -1,2 +1,0 @@
-# AlgoTrader
-Algo Trader
